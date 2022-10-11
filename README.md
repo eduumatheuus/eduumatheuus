@@ -26,3 +26,7 @@
 <center> <img src="https://i.ibb.co/YpdKpZx/semfundo.png" alt="drawing" width="200"/>
 
 ### **Obrigado pela visita! Não se esqueça de seguir para acompanhar meu desenvolvimento!**
+<div>
+
+  ![snake animation](https://github.com/eduumatheuus/eduumatheuus/blob/output/github-contribution-grid-snake.svg)
+</div>
