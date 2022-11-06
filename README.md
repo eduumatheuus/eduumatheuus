@@ -23,7 +23,7 @@
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 
-<center> <img src="https://i.ibb.co/YpdKpZx/semfundo.png" alt="drawing" width="200"/>
+<center> <img src="https://uploaddeimagens.com.br/imagens/sz_dLTU" alt="drawing" width="200"/>
 
 ### **Obrigado pela visita! Não se esqueça de seguir para acompanhar meu desenvolvimento!**
 
