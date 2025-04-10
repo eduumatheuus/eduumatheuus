@@ -27,4 +27,3 @@
 
 ### **Obrigado pela visita! Não se esqueça de seguir para acompanhar meu desenvolvimento!**
 
-![Snake animation](https://github.com/eduumatheuus/eduumatheuus/blob/output/github-contribution-grid-snake.gif)
